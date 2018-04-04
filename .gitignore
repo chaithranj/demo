@@ -1,0 +1,8 @@
+/Demo/Demo/*.user
+/Demo/.vs/Demo/v15/.suo
+/Demo/.vs/Demo/v15/Server/sqlite3/db.lock
+/Demo/.vs/Demo/v15/Server/sqlite3/storage.ide
+/Demo/.vs/Demo/v15/Server/sqlite3/storage.ide-shm
+/Demo/.vs/Demo/v15/Server/sqlite3/storage.ide-wal
+/Demo/.vs/config/applicationhost.config
+/Demo/Demo/obj
